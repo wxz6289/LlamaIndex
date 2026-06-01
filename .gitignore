@@ -11,3 +11,4 @@ __pycache__/
 .env
 storage/
 sessions/
+chroma_db/
