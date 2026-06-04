@@ -1,7 +1,7 @@
 [project]
 name = "LlamaIndex"
 version = "0.1.0"
-description = "Add your description here"
+description = "LlamaIndex 学习示例：RAG、Agent、结构化输出与可观测性"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [

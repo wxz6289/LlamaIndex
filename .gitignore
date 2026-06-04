@@ -12,3 +12,6 @@ __pycache__/
 storage/
 sessions/
 chroma_db/
+
+# Large local reference books (keep repo small; use invoice.pdf for demos)
+resources/精通Python设计模式.pdf
